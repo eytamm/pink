@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Helvetica Neue";
+    background-color: azure;
+}
+
+h1 {
+    color: blueviolet;
+    font-size: 50px;
+    margin-bottom: 20px;
+
+}
+
+.lyrics{
+    margin-bottom: 10px;
+    color: dodgerblue;
+}
+
+.song{
+    width: 60%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.container{
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
